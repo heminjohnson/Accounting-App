@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heminjohnson/Accounting-App/issues"
   },
-  "homepage": "https://github.com/heminjohnson/Accounting-App#readme"
+  "homepage": "https://github.com/heminjohnson/Accounting-App#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
